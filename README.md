@@ -676,6 +676,20 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star)](https://github.com/showlab/computer_use_ootb/tree/master)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://computer-use-ootb.github.io/)
 
++ [From Grounding to Planning: Benchmarking Bottlenecks in Web Agents](https://arxiv.org/pdf/2409.01927)
++ [Ponder & Press: Advancing Visual GUI Agent towards General Computer Control](https://arxiv.org/pdf/2412.01268)
++ [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/pdf/2401.10935)
++ [From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces](https://arxiv.org/pdf/2306.00245)
++ [MULTIMODAL WEB NAVIGATION WITH INSTRUCTIONFINETUNED FOUNDATION MODELS](https://arxiv.org/pdf/2305.11854)
++ [Is Your LLM Secretly a World Model of the Internet? MODEL-BASED PLANNING FOR WEB AGENTS](https://arxiv.org/pdf/2411.06559)
++ [Multimodal Auto Validation For Self-Refinement in Web Agents](https://arxiv.org/pdf/2410.00689?)
++ [Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms](https://arxiv.org/pdf/2411.10943)
++ [Multi-Modal and Multi-Agent Systems Meet Rationality: A Survey](https://openreview.net/pdf?id=9Rtm2gAVjo)
++ [OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization](https://arxiv.org/pdf/2410.19609)
++ [TUR[K]INGBENCH: A Challenge Benchmark for Web Agents](https://arxiv.org/pdf/2403.11905)
++ [WebOlympus: An Open Platform for Web Agents on Live Websites](https://aclanthology.org/2024.emnlp-demo.20.pdf)
++ [INFOGENT: An Agent-Based Framework for Web Information Aggregation](https://arxiv.org/pdf/2410.19054)
+
 ## Related Repositories
 
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
